@@ -1,2 +1,2 @@
 # UPST
-A semi-supervised sentence classification framework based on user polarity
+A semi-training sentence classification framework based on user polarity
