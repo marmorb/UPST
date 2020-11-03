@@ -5,9 +5,9 @@ A semi-training sentence classification framework based on user polarity
 
 ```
 python == 3.6
-numpy
-pytorch
-allennlp
+numpy == 1.17.2
+pytorch == 1.4.0
+allennlp == 0.8.2
 ```
 
 ## training in train_data and testing in dev_data
